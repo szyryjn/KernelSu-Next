@@ -1,3 +1,3 @@
 # KernelSu-Next
-KernelSu-Next with susfs for realme_c3
+KernelSu-Next For A15 with susfs for realme_c3
 
